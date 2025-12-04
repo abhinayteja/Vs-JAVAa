@@ -1,0 +1,7 @@
+/* 
+    > Encapsulation  >>
+*/
+
+public class encapsulationJava {
+    
+}
