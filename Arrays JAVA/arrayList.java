@@ -15,6 +15,7 @@ public class arrayList {
         
         System.out.println(arr);
         System.out.println(arr.get(4));
+        System.out.println();
     }
     
 }
