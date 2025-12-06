@@ -11,7 +11,7 @@ public class arrayList {
         arr.add(30);
         arr.add(20);
         arr.add(30);
-
+        arr.set(2, 39);
         
         System.out.println(arr);
         System.out.println(arr.get(4));

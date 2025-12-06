@@ -24,6 +24,7 @@ public class arrayTraversing {
 
         System.out.println(Arrays.toString(array)); // best way to print like wee need to 
 
+        
 
     }
 }
