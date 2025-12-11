@@ -7,7 +7,7 @@ public class lenierSearch {
 
         System.out.print("Enter the n value : ");
         int n = in.nextInt();
-
+ 
         int [] arr = new int[n];
         for (int i = 0; i < n; i++) {
             arr[i] = in.nextInt();
