@@ -14,7 +14,7 @@ public class Solution {
            L.add(x);
         }
 
-        int Q = in.nextInt();
+    
 
         System.out.println("Insert");
         int e = in.nextInt();
