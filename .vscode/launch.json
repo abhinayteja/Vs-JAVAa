@@ -2,20 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "StringMethods",
-      "request": "launch",
-      "mainClass": "StringMethods",
-      "projectName": "Vs JAVA_ba948a52"
-    },
-    {
-      "type": "java",
-      "name": "reveString",
-      "request": "launch",
-      "mainClass": "reveString",
-      "projectName": "Vs JAVA_ba948a52"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
