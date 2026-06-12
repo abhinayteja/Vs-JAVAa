@@ -1,4 +1,4 @@
-# NEMO / Vs JAVA
+# Vs JAVA
 
 Brief starter README. Replace placeholders with your project specifics.
 
